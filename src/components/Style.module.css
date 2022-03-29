@@ -1,0 +1,26 @@
+.list_heroes {
+  margin-bottom: 20px;
+  outline-color: black;
+  outline-style: solid;
+  outline-width: 2px;
+  margin-right: 900px;
+  
+  
+}
+
+.list_heroes_img {
+  padding-left: 50px;
+}
+.list_heroes_name {
+    margin-top: 15px;
+  /* padding-right: 100px; */
+  text-decoration: none;
+  font-size: 25px;
+  color: black;
+  text-shadow: 1px 1px 1px #000;
+}
+
+.about {
+  padding-left: 150px;
+  /* display:inline-block; */
+}
